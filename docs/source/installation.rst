@@ -8,7 +8,7 @@ Installation
 Stable release
 --------------
 
-To install nuclei, run this command in your terminal:
+To install arcade, run this command in your terminal:
 
 .. code-block:: console
 
