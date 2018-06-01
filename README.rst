@@ -12,7 +12,9 @@
 Arcade
 ======
 
-* Documentation: https://arcade.readthedocs.io.
+Algorithms for OpenAI's retro arcade games.
+
+For background information, notes, and details, check out the full documentation_.
 
 ============
 Installation
@@ -35,3 +37,8 @@ Once you have a copy of the source, you can install it with:
 .. code-block:: console
 
     python setup.py install
+
+
+.. References
+
+.. _documentation: https://arcade.readthedocs.io
