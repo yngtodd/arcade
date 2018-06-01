@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use molecules in a project::
+To use arcade in a project::
 
-    import lunar 
+    import arcade 

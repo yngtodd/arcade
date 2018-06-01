@@ -12,7 +12,7 @@ To install nuclei, run this command in your terminal:
 
 .. code-block:: console
 
-    pip install lunar 
+    pip install arcade 
 
 This is the preferred method to install molecules, as it will always install the most recent stable release. 
 
@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    git clone git://github.com/yngtodd/lunar
+    git clone git://github.com/yngtodd/arcade
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    curl  -OL https://github.com/yngtodd/lunar/tarball/master
+    curl  -OL https://github.com/yngtodd/arcade/tarball/master
 
 Once you have a copy of the source, you can install it with:
 

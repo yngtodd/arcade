@@ -1,7 +1,7 @@
-Lunar Documentation
-===================
+Arcade Documentation
+====================
 
-Lunar is a library for OpenAI's lunar lander.
+Lunar is a library for OpenAI's retro arcade games. 
 
 .. toctree::
    :maxdepth: 2
