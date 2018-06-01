@@ -113,7 +113,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = "_static/img/rl_arcade.png"
+html_logo = "_static/img/arcadeshort.png"
 html_favicon = "_static/img/favicon.png"
 
 # Theme options are theme-specific and customize the look and feel of a
